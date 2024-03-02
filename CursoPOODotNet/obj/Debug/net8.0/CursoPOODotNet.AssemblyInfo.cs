@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CursoPOODotNet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae73a3211dbde01df23be8870b74fe144a64e651")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+420c254a06d45ade736c06e5eebb2e293423d2b1")]
 [assembly: System.Reflection.AssemblyProductAttribute("CursoPOODotNet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CursoPOODotNet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

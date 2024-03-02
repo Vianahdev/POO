@@ -1,0 +1,15 @@
+E:\Desenvolvimento Web\AULAS\POO-DOTNET\CursoPOODotNet\bin\Debug\net8.0\CursoPOODotNet.exe
+E:\Desenvolvimento Web\AULAS\POO-DOTNET\CursoPOODotNet\bin\Debug\net8.0\CursoPOODotNet.deps.json
+E:\Desenvolvimento Web\AULAS\POO-DOTNET\CursoPOODotNet\bin\Debug\net8.0\CursoPOODotNet.runtimeconfig.json
+E:\Desenvolvimento Web\AULAS\POO-DOTNET\CursoPOODotNet\bin\Debug\net8.0\CursoPOODotNet.dll
+E:\Desenvolvimento Web\AULAS\POO-DOTNET\CursoPOODotNet\bin\Debug\net8.0\CursoPOODotNet.pdb
+E:\Desenvolvimento Web\AULAS\POO-DOTNET\CursoPOODotNet\obj\Debug\net8.0\CursoPOODotNet.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desenvolvimento Web\AULAS\POO-DOTNET\CursoPOODotNet\obj\Debug\net8.0\CursoPOODotNet.AssemblyInfoInputs.cache
+E:\Desenvolvimento Web\AULAS\POO-DOTNET\CursoPOODotNet\obj\Debug\net8.0\CursoPOODotNet.AssemblyInfo.cs
+E:\Desenvolvimento Web\AULAS\POO-DOTNET\CursoPOODotNet\obj\Debug\net8.0\CursoPOODotNet.csproj.CoreCompileInputs.cache
+E:\Desenvolvimento Web\AULAS\POO-DOTNET\CursoPOODotNet\obj\Debug\net8.0\CursoPOODotNet.sourcelink.json
+E:\Desenvolvimento Web\AULAS\POO-DOTNET\CursoPOODotNet\obj\Debug\net8.0\CursoPOODotNet.dll
+E:\Desenvolvimento Web\AULAS\POO-DOTNET\CursoPOODotNet\obj\Debug\net8.0\refint\CursoPOODotNet.dll
+E:\Desenvolvimento Web\AULAS\POO-DOTNET\CursoPOODotNet\obj\Debug\net8.0\CursoPOODotNet.pdb
+E:\Desenvolvimento Web\AULAS\POO-DOTNET\CursoPOODotNet\obj\Debug\net8.0\CursoPOODotNet.genruntimeconfig.cache
+E:\Desenvolvimento Web\AULAS\POO-DOTNET\CursoPOODotNet\obj\Debug\net8.0\ref\CursoPOODotNet.dll
