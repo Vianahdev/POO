@@ -26,7 +26,8 @@ namespace CursoPOODotNet{
         public string pessoa_CPF;
 
         //Métodos
-        public void Pagar(){ 
+        public virtual void Pagar(){ 
+        
         }
     }
 
@@ -38,6 +39,10 @@ namespace CursoPOODotNet{
 
         private void validaNumCartao(int numCartao){
             return;
+        }
+
+        public override void Pagar(){
+            
         }
     }
 
